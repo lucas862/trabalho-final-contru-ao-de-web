@@ -1,0 +1,566 @@
+Segue o codigo fonte do trabalho, desculpe a forma como apresentei o site, nao sei usar esse github
+o site esta hospedado na hostnet pois fiz ele para um cliente, segue o link do site http://www.taniadespachante.com.br/
+lucas coelho amorim SI1NB
+
+
+< !DOCTYPE html>
+    < html lang="en">
+        < head>
+            < title> Serviços - Tania Despachante < /title>
+                    <meta charset="utf-8">
+                    <meta http-equiv="x-ua-compatible" content="ie=edge">
+                    <meta name="apple-mobile-web-app-capable" content="yes">
+                    <meta name="apple-touch-fullscreen" content="yes">
+                    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+                    <meta content="" name="description">
+                    <meta content="" name="keywords">
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
+                    <link href="https:/ / maxcdn.bootstrapcdn.com / bootstrap / 4.0 .0 / css / bootstrap.min.css " rel="
+stylesheet " type="
+text / css " integrity="
+sha384 - Gn5384xqQ1aoWXA + 058 RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW / dAiS6JXm " crossorigin="
+anonymous ">
+                    <link href="
+https: //cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+                    <link rel="icon" type="image/png" href="favicon.png?2750">
+                    </head>
+
+                    <body>
+                        <nav class="navbar navbar-expand-md container-topo">
+                            <div class="container"><a href="#" class="navbar-brand"></a><button type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler"><span class="fa fa-bars"></span></button><img src="//taniadespachante.tmp.k8.com.br/wf-content/images/Vector-1586204255000.png" class="c4579" /><img src="//taniadespachante.tmp.k8.com.br/wf-content/images/Group1-1586204247000.png" class="c4654" />
+                                <div id="navbarResponsive" class="collapse navbar-collapse">
+                                    <ul class="navbar-nav ml-auto">
+                                        <li class="nav-item active"><a href="#" class="nav-link">Home
+                                                < span class="sr-only"> (current) < /span></a>
+                                            < /li>
+                                        <li class="nav-item"><a href="#" class="nav-link">About</a>
+                                            < /li>
+                                        <li class="nav-item"><a href="#" class="nav-link">Services</a>
+                                            < /li>
+                                        <li class="nav-item"><a href="#" class="nav-link">Contact</a>
+                                            < /li>
+                                    </ul>
+                                    < /div>
+                                </div>
+                                < /nav>
+                                    <script>
+                                        $(window).scroll(function() {
+                                            if ($(window).scrollTop() > 60) {
+                                                $('.navbar').addClass('fixed-top');
+                                            }
+                                            if ($(window).scrollTop() < 61) {
+                                                $('.navbar').removeClass('fixed-top');
+                                            }
+                                        }); <
+                                        /script><section><div class="container-4 servicos"><div class="container"><div class="row p-md-5"></div > < div class = "row" > < div class = "col-sm-2 col-md-0 col-lg-5" > < img src = "//taniadespachante.tmp.k8.com.br/wf-content/images/dirigirsemdocumentos0011024x536-1586203743000.jpg"
+                                        class = "c6298" / > < /div><div class="col-sm-10 col-md-9 col-lg-7"><div class="row row-spaco40"><div class="col-sm-2 col-lg-1 fa-div"><i class="fa fa-chain"></i > < /div><div class="col-sm-10 col-lg-10"><div class="row-spaco20"><h5>SERVIÇO PESSOAL</h5 > < /div><div><p>Estarei comprometido com você e trabalharei vigorosamente para atende-lo da melhor forma possível. </p > < /div></div > < /div><div class="row row-spaco40"><div class="col-sm-2 col-lg-1 fa-div"><i class="fa fa-tachometer"></i > < /div><div class="col-sm-10 col-lg-10"><div class="row-spaco20"><h5>DENTRO DO SEU TEMPO</h5 > < /div><div class="uabb-infobox-text uabb-text-editor"><p>Darei atenção ao seu atendimento e resolverei seus problemas o mais rápido possível.</p > < /div></div > < /div><div class="row"><div class="col-sm-2 col-lg-1 fa-div"><i class="fa fa-suitcase"></i > < /div><div class="col-sm-10 col-lg-10"><div class="row-spaco20"><h5>SIGILO PROFISSIONAL</h5 > < /div><div><p>Toda informação e documentação entregue a mim sobre o serviço realizado será guardada somente para
+                                        uso profissional. < /p></div > < /div></div > < /div></div > < div class = "row p-md-5" > < /div></div > < /div><div class="px-0 container-5"><div class="container"><div class="row"><div class="col-md-12"><h3 class="text-center">ENTRE EM CONTATO E VAMOS AGILIZAR SEU PROCESSO.</h3 > < /div></div > < div class = "row" > < div data - highlightable = "1"
+                                        class = "col-xs-12 col-md-12 col-sm-12 col-lg-12 px-0 px-md-3 text-center gjs-comp-selected" > < a data - highlightable = "1"
+                                        href = "http://taniadespachante.tmp.k8.com.br/contato.html"
+                                        target = "_blank"
+                                        title = ""
+                                        id = "iw8el"
+                                        class = "botao-2" > FAÇA UM ORÇAMENTO GRATUITO < /a><div data-highlightable="1"><a data-highlightable="1" href="https:/ / api.whatsapp.com / send ? phone = 5527999619332 " target="
+                                        _blank "><img src="
+                                        https: //images.tcdn.com.br/static_inst/integracao/imagens/whatsapp.png" class="whatsapp"/></a></div></div></div></div></div><div class="container-6"><div class="row"><div class="col-md-8 col-12 mx-auto"><h3 class="text-center black">SERVIÇOS MAIS REQUISITADOS</h3></div></div><div class="container"><div class="row"><div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 text-center div-verde"><div class="row"><div class="col-xs-4 col-sm-4 col-md-4"></div><div class="col-xs-4 col-sm-4 col-md-4"><i class="icon-fa fa fa-keyboard-o icon-fa-9308"></i></div><div class="col-xs-4 col-sm-4 col-md-4"></div></div><div class="row justify-content-center"><h3>Primeiro emplacamento.</h3></div><div class="form-group"></div></div><div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 text-center div-roxo"><div class="row"><div class="col-xs-4 col-sm-4 col-md-4"></div><div class="col-xs-4 col-sm-4 col-md-4"><i class="fa fa-child"></i></div><div class="col-xs-4 col-sm-4 col-md-4"></div></div><div class="row justify-content-center"><h3>Transferência de proprietário.</h3></div></div><div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 text-center div-verde"><div class="row"><div class="col-xs-4 col-sm-4 col-md-4"></div><div class="col-xs-4 col-sm-4 col-md-4"><i class="icon-fa fa fa-address-card-o icon-fa-2492"></i></div><div class="col-xs-4 col-sm-4 col-md-4"></div></div><div class="row justify-content-center"><h3>Segunda via do documento.</h3></div></div><div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 text-center div-roxo"><div class="row"><div class="col-xs-4 col-sm-4 col-md-4"></div><div class="col-xs-4 col-sm-4 col-md-4"><i class="icon-fa fa fa-refresh icon-fa-87"></i></div><div class="col-xs-4 col-sm-4 col-md-4"></div></div><div class="row justify-content-center"><h3>Alteração de características.</h3></div></div></div><div class="row"><div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 text-center div-roxo"><div class="row"><div class="col-xs-4 col-sm-4 col-md-4"></div><div class="col-xs-4 col-sm-4 col-md-4"><i class="icon-fa fa fa-automobile icon-fa-6395"></i></div><div class="col-xs-4 col-sm-4 col-md-4"></div></div><div class="row justify-content-center"><h3>Baixa total de veículos.</h3></div></div><div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 text-center div-verde"><div class="row"><div class="col-xs-4 col-sm-4 col-md-4"></div><div class="col-xs-4 col-sm-4 col-md-4"><i class="icon-fa fa fa-keyboard-o icon-fa-6190"></i></div><div class="col-xs-4 col-sm-4 col-md-4"></div></div><div class="row justify-content-center"><h3>Placas Mercosul.</h3></div></div><div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 text-center div-roxo"><div class="row"><div class="col-xs-4 col-sm-4 col-md-4"></div><div class="col-xs-4 col-sm-4 col-md-4"><i class="fi-guide-dog"></i></div><div class="col-xs-4 col-sm-4 col-md-4"></div></div><i class="icon-fa fa fa-address-card icon-fa-9076"></i><div class="row justify-content-center"><h3>Segunda via do CRLV (documento de compra e venda).</h3></div></div><div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 text-center div-verde"><div class="row"><div class="col-xs-4 col-sm-4 col-md-4"></div><div class="col-xs-4 col-sm-4 col-md-4"><i class="icon-fa fa fa-automobile icon-fa-2766"></i></div><div class="col-xs-4 col-sm-4 col-md-4"></div></div><div class="row justify-content-center"><h3>Assessoria em sinistro.</h3><div class="form-group"></div></div></div></div></div></div></section><div class="px-0 container-8"><div class="container"><div class="row text-center"><div class="col-12 col-md-12 mx-auto"><div><h2>ENTRE EM CONTATO</h2></div><div><h3>TELEFONES</h3></div><div><p><span class="c5893">Telefone: (27) 3316-0357</span><br data-highlightable="1" class="c5902"/><span class="c5911">Celular: (27) 99961-9332<br/><br/></span></p></div><div><h3>HORÁRIO DE FUNCIONAMENTO</h3></div><div><p><span class="c5821">Segundas a Sexta: 8:00 - 18:00</span><br data-highlightable="1" class="c5830"/><span class="c5839">Finais de Semana e Feriados: Fechado.</span></p></div><div><h3>MEU ENDEREÇO</h3></div><div><p><span class="c5797">AV. Carlos Lindemberg, 2228. Box 18. Cobilandia, Vila Velha.</span></p></div><div></div></div></div></div></div><footer class="text-center"><div class="container"><div class="row"><div data-highlightable="1" class="col-12 gjs-comp-selected"><p data-highlightable="1" class="gjs-comp-selected">Desenvolvido por 
+                                            <
+                                            a data - highlightable = "1"
+                                        href = "https://www.instagram.com/lucascoelho_a/?hl=pt-br"
+                                        target = "_blank"
+                                        rel = "noopener" > < strong data - highlightable = "1" > Lucas Coelho < /strong></a > < /p></div > < /div></div > < /footer><div id="publishedPages" style="display:none"><a class="nav-link" data-page="{&quot;id&quot;:1911,&quot;title&quot;:&quot;Serviços&quot;,&quot;modelo&quot;:&quot;82&quot;,&quot;order&quot;:1,&quot;site&quot;:1627,&quot;isIndex&quot;:true,&quot;isPublic&quot;:true,&quot;createdAt&quot;:1586190248000,&quot;updatedAt&quot;:1589329245000,&quot;url&quot;:&quot;serviços&quot;}" href="index.html">Serviços</a > < a class = "nav-link"
+                                        data - page = "{&quot;id&quot;:1910,&quot;title&quot;:&quot;Home&quot;,&quot;modelo&quot;:&quot;81&quot;,&quot;order&quot;:2,&quot;site&quot;:1627,&quot;isIndex&quot;:false,&quot;isPublic&quot;:true,&quot;createdAt&quot;:1586189953000,&quot;updatedAt&quot;:1588275799000,&quot;url&quot;:&quot;home&quot;}"
+                                        href = "home.html" > Home < /a><a class="nav-link" data-page="{&quot;id&quot;:1913,&quot;title&quot;:&quot;Sobre&quot;,&quot;modelo&quot;:&quot;81&quot;,&quot;order&quot;:3,&quot;site&quot;:1627,&quot;isIndex&quot;:false,&quot;isPublic&quot;:true,&quot;createdAt&quot;:1586190281000,&quot;updatedAt&quot;:1588275928000,&quot;url&quot;:&quot;sobre&quot;}" href="sobre.html">Sobre</a > < a class = "nav-link"
+                                        data - page = "{&quot;id&quot;:1912,&quot;title&quot;:&quot;Contato&quot;,&quot;modelo&quot;:&quot;83&quot;,&quot;order&quot;:4,&quot;site&quot;:1627,&quot;isIndex&quot;:false,&quot;isPublic&quot;:true,&quot;createdAt&quot;:1586190256000,&quot;updatedAt&quot;:1588276223000,&quot;url&quot;:&quot;contato&quot;}"
+                                        href = "contato.html" > Contato < /a></div > < style >
+                                            .row {
+                                                margin - left: 0;
+                                                margin - right: 0
+                                            }
+                                            .btn - circle {
+                                                display: inline - block;
+                                                border - top - left - radius: 50 % ;
+                                                border - top - right - radius: 50 % ;
+                                                border - bottom - right - radius: 50 % ;
+                                                border - bottom - left - radius: 50 % ;
+                                                min - width: 20 px;
+                                                min - height: 20 px;
+                                                padding - top: 12 px;
+                                                padding - right: 12 px;
+                                                padding - bottom: 12 px;
+                                                padding - left: 12 px;
+                                                text - align: center;
+                                                line - height: 1;
+                                                box - sizing: content - box;
+                                                white - space: nowrap;
+                                            }
+                                            .btn - circle: before {
+                                                content: "";
+                                                display: inline - block;
+                                                vertical - align: middle;
+                                                padding - top: 100 % ;
+                                                height: 0 px;
+                                            }
+                                            .row {
+                                                margin - left: 0 px;
+                                                margin - right: 0 px;
+                                            }.row {
+                                                margin - left: 0 px;
+                                                margin - right: 0 px;
+                                            }.row {
+                                                margin - left: 0 px;
+                                                margin - right: 0 px;
+                                            }.row {
+                                                margin - left: 0 px;
+                                                margin - right: 0 px;
+                                            }.row {
+                                                margin - left: 0 px;
+                                                margin - right: 0 px;
+                                            }.row {
+                                                margin - left: 0 px;
+                                                margin - right: 0 px;
+                                            }.row {
+                                                margin - left: 0 px;
+                                                margin - right: 0 px;
+                                            }.row {
+                                                margin - left: 0 px;
+                                                margin - right: 0 px;
+                                            }.row {
+                                                margin - left: 0 px;
+                                                margin - right: 0 px;
+                                            }
+                                        #iw8el {
+                                            text - decoration - line: none;
+                                            text - decoration - style: initial;
+                                            text - decoration - color: initial;
+                                            font - weight: normal;
+                                            font - style: normal;
+                                            font - size: 24 px;
+                                            color: rgb(255, 255, 255) !important;
+                                        }.row {
+                                            margin - left: 0 px;
+                                            margin - right: 0 px;
+                                        }.row {
+                                            margin - left: 0 px;
+                                            margin - right: 0 px;
+                                        }.container - topo {
+                                            width: 100 % ;padding - right: 15 px;padding - left: 15 px;margin - right: auto;margin - left: auto;font - size: 14 px;font - family: "Open Sans";
+                                        }.container - 4 {
+                                            width: 100 % ;padding - right: 15 px;padding - left: 15 px;margin - right: auto;margin - left: auto;font - size: 14 px;font - family: "Open Sans";
+                                        }.container - 5 {
+                                            width: 100 % ;padding - right: 15 px;padding - left: 15 px;margin - right: auto;margin - left: auto;font - size: 14 px;font - family: "Open Sans";
+                                        }.container - 6 {
+                                            width: 100 % ;padding - right: 15 px;padding - left: 15 px;margin - right: auto;margin - left: auto;font - size: 14 px;font - family: "Open Sans";
+                                        }.container - topo {
+                                            background - color: rgb(0, 0, 0);
+                                            color: white;
+                                            border - bottom - width: 3 px;
+                                            border - bottom - style: solid;
+                                            border - bottom - color: rgb(20, 202, 180);
+                                        }.container - topo.nav - link {
+                                            color: white;
+                                        }.navbar - brand img {
+                                            max - height: 80 px;
+                                        }.container - 1 i {
+                                            color: rgb(20, 202, 180);font - size: 28 px;border - top - width: 2 px;border - right - width: 2 px;border - bottom - width: 2 px;border - left - width: 2 px;border - top - style: solid;border - right - style: solid;border - bottom - style: solid;border - left - style: solid;border - top - color: rgb(20, 202, 180);border - right - color: rgb(20, 202, 180);border - bottom - color: rgb(20, 202, 180);border - left - color: rgb(20, 202, 180);border - image - source: initial;border - image - slice: initial;border - image - width: initial;border - image - outset: initial;border - image - repeat: initial;padding - top: 16 px;padding - right: 16 px;padding - bottom: 16 px;padding - left: 16 px;font - weight: 900;margin - bottom: 20 px;
+                                        }.container - 3 h3 {
+                                            font - family: Montserrat;
+                                            font - weight: 700;
+                                            font - size: xx - large;
+                                            line - height: 42 px;
+                                            margin - bottom: 30 px;
+                                        }.container - 3 p {
+                                            padding - top: 0 px;
+                                            padding - right: 0 px;
+                                            padding - bottom: 10 px;
+                                            padding - left: 0 px;
+                                            margin - top: 0 px;
+                                            margin - right: 0 px;
+                                            margin - bottom: 10 px;
+                                            margin - left: 0 px;
+                                            color: gray;
+                                            font - weight: inherit;
+                                            font - size: 16 px;
+                                        }.container - 4 {
+                                            background - image: url("https://www.webfacil.com.br/premium/images/008_admin-ajax3.jpg");
+                                            background - repeat - x: no - repeat;
+                                            background - repeat - y: no - repeat;
+                                            background - position - x: 0 % ;
+                                            background - position - y: 0 % ;
+                                            background - attachment: scroll;
+                                            background - size: cover;
+                                            background - color: rgb(26, 36, 49);
+                                        }.container - 4 i {
+                                            color: rgb(20, 202, 180);font - size: 28 px;border - top - width: 2 px;border - right - width: 2 px;border - bottom - width: 2 px;border - left - width: 2 px;border - top - style: solid;border - right - style: solid;border - bottom - style: solid;border - left - style: solid;border - top - color: rgb(20, 202, 180);border - right - color: rgb(20, 202, 180);border - bottom - color: rgb(20, 202, 180);border - left - color: rgb(20, 202, 180);border - image - source: initial;border - image - slice: initial;border - image - width: initial;border - image - outset: initial;border - image - repeat: initial;padding - top: 16 px;padding - right: 16 px;padding - bottom: 16 px;padding - left: 16 px;font - weight: 900;margin - bottom: 20 px;
+                                        }.container - 4 h5 {
+                                            font - family: Montserrat;
+                                            font - weight: 700;
+                                            font - size: 24 px;
+                                            line - height: 1 em;
+                                        }.container - 5 {
+                                            background - color: rgb(26, 36, 49);
+                                            padding - top: 4 rem;
+                                            padding - right: 2 rem;
+                                            padding - bottom: 4 rem;
+                                            padding - left: 2 rem;
+                                        }.container - 5 h3 {
+                                            color: white;line - height: 37 px;
+                                        }.container - 6 {
+                                            background - repeat - x: no - repeat;
+                                            background - repeat - y: no - repeat;
+                                            background - position - x: 0 % ;
+                                            background - position - y: 0 % ;
+                                            background - attachment: scroll;
+                                            background - size: cover;
+                                        }.container - 6 h3.text - center.black {
+                                            font - family: Montserrat;
+                                            font - weight: 700;
+                                            font - size: 35 px;
+                                            color: black;
+                                            margin - bottom: 50 px;
+                                            line - height: 37 px;
+                                        }.container - 6 h3 {
+                                            margin - top: 25 px;
+                                            text - align: center;
+                                            color: white;
+                                        }.container - 6 i {
+                                            color: rgb(255, 255, 255);font - size: 30 px;line - height: 30 px;height: 30 px;width: 30 px;text - align: center;
+                                        }.container - 7 a {
+                                            display: block;margin - top: -90 px;margin - right: auto;margin - bottom: -90 px;margin - left: auto;
+                                        }.container - 8 {
+                                            background - color: rgb(15, 18, 28);
+                                            padding - top: 4 rem;
+                                            padding - right: 2 rem;
+                                            padding - bottom: 4 rem;
+                                            padding - left: 2 rem;
+                                        }.container - 8 h2 {
+                                            font - family: Montserrat;
+                                            font - weight: 700;
+                                            font - size: 25 px;
+                                            line - height: 27 px;
+                                            color: white;
+                                            margin - bottom: 30 px;
+                                        }.container - 8 h3 {
+                                            font - family: Montserrat;
+                                            font - weight: 700;
+                                            font - size: 14 px;
+                                            line - height: 16 px;
+                                            color: white;
+                                        }.container - 8 p {
+                                            color: gray;
+                                        }.container - 8 i {
+                                            color: rgb(20, 202, 180);font - size: 60 px;line - height: 60 px;height: 60 px;width: 60 px;text - align: center;
+                                        }.container - 8. col - 3 {
+                                            padding - left: 0 px;
+                                        }.container - 8 button {
+                                            border - top - left - radius: 0 px;
+                                            border - top - right - radius: 0 px;
+                                            border - bottom - right - radius: 0 px;
+                                            border - bottom - left - radius: 0 px;
+                                            background - image: initial;
+                                            background - position - x: initial;
+                                            background - position - y: initial;
+                                            background - size: initial;
+                                            background - repeat - x: initial;
+                                            background - repeat - y: initial;
+                                            background - attachment: initial;
+                                            background - origin: initial;
+                                            background - clip: initial;
+                                            background - color: rgb(20, 202, 180);
+                                            color: rgb(255, 255, 255);
+                                            border - top - width: initial;
+                                            border - right - width: initial;
+                                            border - bottom - width: initial;
+                                            border - left - width: initial;
+                                            border - top - style: none;
+                                            border - right - style: none;
+                                            border - bottom - style: none;
+                                            border - left - style: none;
+                                            border - top - color: initial;
+                                            border - right - color: initial;
+                                            border - bottom - color: initial;
+                                            border - left - color: initial;
+                                            border - image - source: initial;
+                                            border - image - slice: initial;
+                                            border - image - width: initial;
+                                            border - image - outset: initial;
+                                            border - image - repeat: initial;
+                                        }
+                                        footer {
+                                            background - image: initial;
+                                            background - position - x: initial;
+                                            background - position - y: initial;
+                                            background - size: initial;
+                                            background - repeat - x: initial;
+                                            background - repeat - y: initial;
+                                            background - attachment: initial;
+                                            background - origin: initial;
+                                            background - clip: initial;
+                                            background - color: rgb(128, 128, 128);
+                                            padding - top: 16 px;
+                                        }
+                                        footer p {
+                                            color: white;
+                                        }
+                                        footer a {
+                                            color: rgb(20, 202, 180);
+                                        }.div - verde {
+                                            background - image: initial;
+                                            background - position - x: initial;
+                                            background - position - y: initial;
+                                            background - size: initial;
+                                            background - repeat - x: initial;
+                                            background - repeat - y: initial;
+                                            background - attachment: initial;
+                                            background - origin: initial;
+                                            background - clip: initial;
+                                            background - color: rgb(20, 202, 180);
+                                            padding - top: 60 px;
+                                            padding - bottom: 60 px;
+                                            padding - left: 60 px;
+                                            padding - right: 60 px;
+                                        }.div - roxo {
+                                            background - image: initial;
+                                            background - position - x: initial;
+                                            background - position - y: initial;
+                                            background - size: initial;
+                                            background - repeat - x: initial;
+                                            background - repeat - y: initial;
+                                            background - attachment: initial;
+                                            background - origin: initial;
+                                            background - clip: initial;
+                                            background - color: rgb(26, 36, 49);
+                                            padding - top: 60 px;
+                                            padding - bottom: 60 px;
+                                            padding - left: 60 px;
+                                            padding - right: 60 px;
+                                        }
+                                        h1.text - left {
+                                            font - family: Montserrat;
+                                            font - weight: 700;
+                                            font - size: 60 px;
+                                            line - height: 1 em;
+                                            color: white;
+                                            float: left;
+                                            margin - bottom: 50 px;
+                                        }
+                                        h3.text - center {
+                                            font - family: Montserrat;
+                                            font - weight: 700;
+                                            font - size: 35 px;
+                                            color: white;
+                                            margin - bottom: 50 px;
+                                            line - height: 37 px;
+                                        }
+                                        h4 {
+                                            font - family: Montserrat;
+                                            font - weight: 700;
+                                            font - size: 24 px;
+                                            line - height: 1 em;
+                                        }
+                                        h5 {
+                                            color: white;
+                                        }.row - spaco20 {
+                                            margin - bottom: 20 px;
+                                        }.row - spaco40 {
+                                            margin - bottom: 20 px;
+                                            margin - top: 20 px;
+                                        }.container - 4 p {
+                                            color: white;
+                                        }.fa - div {
+                                            margin - right: 15 px;
+                                        }.botao - 2 {
+                                            padding - top: 18 px;
+                                            padding - right: 32 px;
+                                            padding - bottom: 18 px;
+                                            padding - left: 32 px;
+                                            color: white;
+                                            border - top - left - radius: 0 px;
+                                            border - top - right - radius: 0 px;
+                                            border - bottom - right - radius: 0 px;
+                                            border - bottom - left - radius: 0 px;
+                                            transition - duration: 0.3 s;
+                                            transition - timing - function: ease - in -out;
+                                            transition - delay: 0 s;
+                                            transition - property: all;
+                                            cursor: pointer;
+                                            width: 320 px;
+                                            margin - bottom: 50 px;
+                                            font - size: 16 px;
+                                            border - top - width: 2 px;
+                                            border - right - width: 2 px;
+                                            border - bottom - width: 2 px;
+                                            border - left - width: 2 px;
+                                            border - top - style: solid;
+                                            border - right - style: solid;
+                                            border - bottom - style: solid;
+                                            border - left - style: solid;
+                                            border - top - color: rgb(20, 202, 180);
+                                            border - right - color: rgb(20, 202, 180);
+                                            border - bottom - color: rgb(20, 202, 180);
+                                            border - left - color: rgb(20, 202, 180);
+                                            border - image - source: initial;
+                                            border - image - slice: initial;
+                                            border - image - width: initial;
+                                            border - image - outset: initial;
+                                            border - image - repeat: initial;
+                                        }.botao - 2: hover {
+                                            background - color: rgb(20, 202, 180);
+                                            color: white;
+                                            text - decoration - line: none;
+                                            text - decoration - style: initial;
+                                            text - decoration - color: initial;
+                                        }.btn a {
+                                            color: white;
+                                        }.btn a: hover {
+                                            text - decoration - line: none;
+                                            text - decoration - style: initial;
+                                            text - decoration - color: initial;
+                                        }
+                                        button[type = "submit"] {
+                                            background - color: rgb(52, 152, 219);
+                                            color: white;
+                                        }
+                                        button[type = "reset"] {
+                                            color: rgb(52, 152, 219);
+                                        }
+                                        button[type = "submit"]: hover {
+                                            background - color: rgb(41, 128, 185);
+                                        }
+                                        button[type = "reset"]: hover {
+                                            color: rgb(41, 128, 185);
+                                        }.c5797 {
+                                            text - align: left;
+                                        }.c5821 {
+                                            text - align: left;
+                                        }.c5830 {
+                                            text - align: left;
+                                        }.c5839 {
+                                            text - align: left;
+                                        }.c5893 {
+                                            text - align: left;
+                                        }.c5902 {
+                                            text - align: left;
+                                        }.c5911 {
+                                            text - align: left;
+                                        }.c6298 {
+                                            color: black;width: 362 px;height: 375 px;
+                                        }
+                                        a.social - item {
+                                            display: block;width: 50 px;height: 50 px;color: rgb(255, 255, 255);border - top - left - radius: 100 % ;border - top - right - radius: 100 % ;border - bottom - right - radius: 100 % ;border - bottom - left - radius: 100 % ;font - size: 25 px;line - height: 50 px;text - align: center;
+                                        }
+                                        a.social - item i.icon - fa {
+                                            line - height: 50 px;
+                                        }
+                                        a.social - item: hover {
+                                            opacity: 0.6;color: rgb(255, 255, 255);
+                                        }.btn.btn - circle a {
+                                            display: inline - block;vertical - align: middle;
+                                        }.whatsapp {
+                                            position: fixed;top: 82 % ;left: 1 % ;padding - top: 10 px;padding - right: 10 px;padding - bottom: 10 px;padding - left: 10 px;z - index: 10000000;
+                                        }.c4579 {
+                                            color: black;height: 67 px;
+                                        }.c4654 {
+                                            color: black;height: 67 px;width: 72 px;
+                                        }
+                                        @media(max - width: 768 px) {
+                                            .container - 3. img - 100 {
+                                                display: none;
+                                            }.container - 4 {
+                                                background - image: none;
+                                                background - color: black;
+                                                padding - top: 4 rem;
+                                                padding - right: 2 rem;
+                                                padding - bottom: 4 rem;
+                                                padding - left: 2 rem;
+                                            }
+                                        }
+                                        @media(max - width: 550 px) {
+                                            .container - banner h1 {
+                                                text - align: center!important;
+                                            }
+                                            h1.text - left {
+                                                font - family: Montserrat;
+                                                font - weight: 700;
+                                                font - size: xx - large;
+                                                line - height: 1 em;
+                                                color: white;
+                                                float: left;
+                                                margin - bottom: 50 px;
+                                            }.botao - 2 {
+                                                padding - top: 18 px;
+                                                padding - right: 32 px;
+                                                padding - bottom: 18 px;
+                                                padding - left: 32 px;
+                                                color: white;
+                                                border - top - left - radius: 0 px;
+                                                border - top - right - radius: 0 px;
+                                                border - bottom - right - radius: 0 px;
+                                                border - bottom - left - radius: 0 px;
+                                                transition - duration: 0.3 s;
+                                                transition - timing - function: ease - in -out;
+                                                transition - delay: 0 s;
+                                                transition - property: all;
+                                                cursor: pointer;
+                                                width: 250 px;
+                                                margin - bottom: 50 px;
+                                                font - size: x - small;
+                                                border - top - width: 2 px;
+                                                border - right - width: 2 px;
+                                                border - bottom - width: 2 px;
+                                                border - left - width: 2 px;
+                                                border - top - style: solid;
+                                                border - right - style: solid;
+                                                border - bottom - style: solid;
+                                                border - left - style: solid;
+                                                border - top - color: rgb(20, 202, 180);
+                                                border - right - color: rgb(20, 202, 180);
+                                                border - bottom - color: rgb(20, 202, 180);
+                                                border - left - color: rgb(20, 202, 180);
+                                                border - image - source: initial;
+                                                border - image - slice: initial;
+                                                border - image - width: initial;
+                                                border - image - outset: initial;
+                                                border - image - repeat: initial;
+                                            }
+                                        } < /style><script src="https:/ / code.jquery.com / jquery - 3.2 .1.slim.min.js " integrity="
+                                        sha384 - KJ3o2DKtIkvYIK3UENzmM7KCkRr / rE9 / Qpg6aAZGJwFDMVNA / GpGFF93hXpG5KkN " crossorigin="
+                                        anonymous ">
+                                    </script>
+                                    <script src="
+https: //cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+                                    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+                                    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+                                    <script></script>
+                                    <script>
+                                        let textCss = $('body style').text()
+                                        let textMatch = textCss.match(/(font-family:)((?:['"]?(?:\w+\s*)+["']?(?:,\s*|\s*;))+)/gm)
+                                        let usedFontFamilyList = []
+                                        if (textMatch) {
+                                            for (let i = 0; i < textMatch.length; i++) {
+                                                let fontText = textMatch[i].replace('font-family:', '').replace(/;/g, '').replace(/"/g, '').replace(/,/g, '').trim()
+                                                usedFontFamilyList.push(`${fontText}:300,400,500,600,700,800,900,bold,italic`)
+                                            }
+                                            WebFont.load({
+                                                google: {
+                                                    families: usedFontFamilyList
+                                                }
+                                            });
+                                        }
+
+                                        //Criar menu
+                                        $('.navbar-nav .nav-item').remove()
+                                        $('#publishedPages .nav-link').each((index, page) => {
+                                            var li = $('<li class="nav-item">')
+                                            li.append(page)
+                                            $(li).appendTo('.navbar-nav')
+                                        })
+                                        //Fixar menu
+                                        $(window).scroll(function() {
+                                            if ($(window).scrollTop() > 60) {
+                                                $('.navbar').addClass('fixed-top');
+                                            }
+                                            if ($(window).scrollTop() < 61) {
+                                                $('.navbar').removeClass('fixed-top');
+                                            }
+                                        }); <
+                                        /script></body > < /html>
